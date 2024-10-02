@@ -1,8 +1,9 @@
 # untitled6
 начало
-![image](https://github.com/user-attachments/assets/96ba6551-ca8a-4be1-9cbd-3748d053d79d)
+
 добавление
-![image](https://github.com/user-attachments/assets/2b3517e8-d031-4bce-9cbe-838e3577e35b)
+![image](https://github.com/user-attachments/assets/aca39459-8fbc-44d3-9409-0236fc40de00)
+
 удаление
 ![image](https://github.com/user-attachments/assets/bdc62caa-9996-40ff-8928-07a179141ac9)
 ![image](https://github.com/user-attachments/assets/bc2d89d5-c2a4-4068-9bb2-ed540582fa47)
