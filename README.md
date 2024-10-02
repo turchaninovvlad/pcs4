@@ -1,12 +1,13 @@
 # untitled6
 начало
-
-добавление
 ![image](https://github.com/user-attachments/assets/aca39459-8fbc-44d3-9409-0236fc40de00)
+добавление
+![image](https://github.com/user-attachments/assets/9348a588-5ddf-47ab-ad89-bff9897c31e3)
 
 удаление
-![image](https://github.com/user-attachments/assets/bdc62caa-9996-40ff-8928-07a179141ac9)
-![image](https://github.com/user-attachments/assets/bc2d89d5-c2a4-4068-9bb2-ed540582fa47)
+![image](https://github.com/user-attachments/assets/2289eea3-4ec3-4f6e-9141-559a8263a5ed)
+![image](https://github.com/user-attachments/assets/11bb85b9-a9df-4954-8cf6-065d5c13f5dc)
+
 
 A new Flutter project.
 
